@@ -1,0 +1,10 @@
+.settings
+.project
+.classpath
+.factorypath
+.idea
+.vimide
+**/target/**
+*jacoco.exec*
+*.iml
+*~
